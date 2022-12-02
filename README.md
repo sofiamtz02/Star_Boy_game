@@ -17,4 +17,4 @@ In the main menu, there are 4 buttons, 2 of which are animations. The 'CLIP' but
 
 ---
 ## Video
-
+https://drive.google.com/file/d/1wXuKdVUFiKyq5vdSKcqxPZrQm-W40oL-/view?usp=sharing
