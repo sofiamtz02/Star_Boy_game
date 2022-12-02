@@ -14,5 +14,7 @@ The score is based on the time the player stays alive, and when they die a game 
 ---
 ### Extras
 In the main menu, there are 4 buttons, 2 of which are animations. The 'CLIP' button is to see the story, and the '?' is the animation for the instructions. 
+
 ---
 ## Video
+
