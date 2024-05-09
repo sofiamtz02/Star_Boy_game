@@ -1,6 +1,6 @@
 # Star_Boy_game
 ----
-This game is about a Boy names Bob. Bob lived in a world in which only the color green existied, but he wanted more...
+This game is about a Boy named Bob. Bob lived in a world in which only the color green existied, but he wanted more...
 Yet not every wish goes as we planned, and so he wished for more colors but a shooting star ended up crashing on to him.... YIKES. That lead him to being in his sketchbook with his drawings in different colors. 
 So, be carful what you wish for.
 
